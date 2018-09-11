@@ -1,2 +1,2 @@
 # hello_word
-justtest
+only test
